@@ -82,7 +82,7 @@ export default function GlobeCarousel() {
     return (
 
         //<div className="flex min-h-screen items-center justify-center bg-white overflow-hidden">
-        <div className="flex min-h-screen items-start justify-center bg-white overflow-hidden pt-26">
+        <div className="flex min-h-screen items-start justify-center bg-black overflow-hidden pt-26">
             {/* 🔥 ขยายพื้นที่ + ให้พอดีกับลูกโลก */}
             <div
                 className="relative w-[1800px] h-[550px]"
